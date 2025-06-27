@@ -28,7 +28,6 @@ couchdb.stderr
 node_modules
 editor/tmp
 
-config.sh
 
 editor/app/_docs/settings.json
 
